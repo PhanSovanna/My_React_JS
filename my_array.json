@@ -1,5 +1,1 @@
-"person": 
-{
-  "name": 'Vanna',
-  "lastname": 'Phan'
-}
+[{id:1,names='Vanna'},{id:2,names='Vanna'},{id:3,names='Vanna'}]
